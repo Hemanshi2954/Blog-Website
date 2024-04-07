@@ -1,9 +1,10 @@
 
 import { Box, styled, Typography, Link } from '@mui/material';
 import { GitHub, Instagram, Email } from '@mui/icons-material';
+import backgroundImage  from './bg2.png';
 
 const Banner = styled(Box)`
-    background-image: url(https://www.wallpapertip.com/wmimgs/23-236943_us-wallpaper-for-website.jpg);
+    background-image: url(${backgroundImage});
     width: 100%;
     height: 50vh;
     background-position: left 0px bottom 0px;
