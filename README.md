@@ -1,4 +1,4 @@
-Full-Stack MERN Blog Website
+## Full-Stack MERN Blog Website
 
 This repository holds a complete blog website application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 Users can register, log in, and create/manage blog posts. Features include:
@@ -9,7 +9,7 @@ Post Creation and Management
 (Optional: Add any other key features)
 Built for the Bharat Intern Full-Stack Developer Internship. #BharatIntern #MERN #BlogWebsite
 
-Explanation:
+### Explanation:
 
 Full-Stack MERN Blog Website: Clearly describes the project functionality and technology stack.
 This repository holds: Indicates the content of the repository.
