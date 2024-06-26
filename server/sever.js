@@ -26,7 +26,7 @@ const PORT = process.env.PORT || 8000;
 const username = process.env.DB_USERNAME;
 const password = process.env.DB_PASSWORD;
 
-const URL= process.env.MONGODB_URI || `mongodb+srv://${USERNAME}:${PASSWORD}@blog-website-db.rlxucag.mongodb.net/?retryWrites=true&w=majority&appName=Blog-Website-db`;
+const URL= process.env.MONGODB_URI || `mongodb+srv://${username}:${password}@blog-website-db.rlxucag.mongodb.net/?retryWrites=true&w=majority&appName=Blog-Website-db`;
 
 Connection(URL);
 
